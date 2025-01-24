@@ -23,7 +23,7 @@ from telegram.ext import (
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Configuração do Telegram Bot
-TELEGRAM_TOKEN = "8161850745:AAHZ-VpJNMlB1YmzWcUVRTR5GQlNXjHLqps"
+TELEGRAM_TOKEN = "8161850745:AAEaZnx8LJY2ndvl2Bv26FvD1g2SStG8mzY"
 
 # Configurações do navegador Selenium
 options = Options()
